@@ -1,0 +1,44 @@
+.logo{
+    width: 50px;
+    height:50px;
+}
+
+.Preorder{
+    width: 1000px;
+    height: 500px;
+}
+
+.body{
+    background-color:rgb(39, 34, 34);
+}
+
+.Container{
+    background-color: black;
+    width: 1100px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+} 
+
+.text{
+    color: white;
+}
+
+.form-label{
+    color: white;
+}
+
+.form-check-label{
+    color: white;
+}
+
+.form-control{
+    background-color: dimgray;
+}
+
+.form-select{
+    background-color: dimgray;
+}
+
+footer{
+    background-color:black;
+}
